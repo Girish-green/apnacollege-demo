@@ -1,4 +1,10 @@
 # apnacollege-demo
+
 This is my first Got Repository
 <br>
-Author - Girish
+Author - Girish Bharti
+
+
+
+
+
